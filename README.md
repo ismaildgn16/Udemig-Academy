@@ -2,7 +2,7 @@
 
 Bu projede Bootstrap kullanılarak kullanıcı dostu bir arayüz elde edildi. Full responsive olan bu proje hem Bootstrap hem de kendi Css kodlarımı içermektedir.
 
-#Özellikler:
+# Özellikler:
 - Açılır-Kapanır Navbar alanı
 - Responsive Tasarım
 - Kullanıcı Dostu Arayüz
